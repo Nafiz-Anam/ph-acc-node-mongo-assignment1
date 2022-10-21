@@ -1,3 +1,3 @@
 ## Random User API
 
--   Live Server Link:
+-   Live Server Link: https://ph-random-user.onrender.com
