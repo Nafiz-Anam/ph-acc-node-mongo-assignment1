@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1,
+    "name": "Nafiz",
+    "contact": "+8801921381828",
+    "gender": "Male",
+    "address": "Khulna, Bangladesh",
+    "photoUrl": "Url gaeb"
+  },
+  {
+    "_id": 2,
+    "name": "Anam",
+    "contact": "+0596570309",
+    "gender": "Male",
+    "address": "Istanbul, Turkey",
+    "photoUrl": "Url gaeb"
+  },
+  {
+    "_id": 3,
+    "name": "Rima",
+    "contact": "+0986123567",
+    "gender": "Female",
+    "address": "Jakarta, Indonesia",
+    "photoUrl": "Url gaeb"
+  },
+  {
+    "_id": 4,
+    "name": "Rubayed",
+    "contact": "+97184568574",
+    "gender": "Male",
+    "address": "Dubai, UAE",
+    "photoUrl": "https://raw.githubusercontent.com/sharifmrahat/custom-db-json/main/users/user-3.jpeg"
+  }
+]
